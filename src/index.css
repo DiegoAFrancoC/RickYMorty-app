@@ -1,0 +1,37 @@
+:root {
+	--background-body: #06292E;
+	--background-cards: #062226;
+}
+
+* {
+	box-sizing: border-box;
+}
+
+body {
+	margin: 0;
+	background-color: var(--background-body);
+}
+
+h1, h2, h3, h3, p, ul {
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
+ul {
+	padding-left: 0;
+	list-style: none;
+}
+
+img {
+	display: block;
+}
+
+button {
+	border: none;
+	border-radius: 15px;
+	cursor: pointer;
+}
+
+input {
+	outline: none;
+}

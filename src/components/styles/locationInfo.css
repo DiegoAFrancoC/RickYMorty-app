@@ -1,0 +1,14 @@
+.location-info {
+	position: relative;
+	width: 890px;
+	height: 126px;
+	margin: auto;
+	bottom: 20px;
+	display: grid;
+	align-content: center;
+	align-items: center;
+	background-color: #062226;
+	border-radius: 15px;
+	text-align: center;
+	gap: 15px;
+}
